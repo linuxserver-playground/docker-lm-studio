@@ -1,5 +1,5 @@
 NAME                                                                                 VERSION                                                  TYPE                           
-@agentclientprotocol/sdk                                                             1.4.0                                                    npm                             
+@agentclientprotocol/sdk                                                             1.5.0                                                    npm                             
 @ai-sdk/amazon-bedrock                                                               5.0.113                                                  npm                             
 @ai-sdk/anthropic                                                                    4.0.78                                                   npm                             
 @ai-sdk/gateway                                                                      3.0.212                                                  npm                             
@@ -21,7 +21,7 @@ NAME                                                                            
 @ai-sdk/provider-utils                                                               4.0.57                                                   npm           (+2 duplicates)   
 @ai-sdk/provider-utils                                                               5.0.0                                                    npm                             
 @ai-sdk/provider-utils                                                               5.0.58                                                   npm                             
-@anthropic-ai/sdk                                                                    0.127.0                                                  npm                             
+@anthropic-ai/sdk                                                                    0.128.0                                                  npm                             
 @anthropic-ai/sdk                                                                    0.82.0                                                   npm                             
 @aws-sdk/core                                                                        3.978.2                                                  npm                             
 @aws-sdk/credential-provider-cognito-identity                                        3.972.72                                                 npm                             
@@ -79,7 +79,7 @@ NAME                                                                            
 @github/copilot                                                                      1.0.73                                                   npm                             
 @github/copilot-linux-x64                                                            1.0.84-4                                                 npm                             
 @google/genai                                                                        1.30.0                                                   npm                             
-@google/genai                                                                        2.23.0                                                   npm                             
+@google/genai                                                                        2.24.0                                                   npm                             
 @google/genai/node                                                                   UNKNOWN                                                  npm           (+1 duplicate)    
 @google/genai/web                                                                    UNKNOWN                                                  npm           (+1 duplicate)    
 @grammyjs/transformer-throttler                                                      1.2.1                                                    npm                             
@@ -132,103 +132,91 @@ NAME                                                                            
 @msgpackr-extract/msgpackr-extract-linux-x64                                         3.0.4                                                    npm                             
 @nevware21/ts-async                                                                  0.5.4                                                    npm                             
 @nevware21/ts-utils                                                                  0.14.0                                                   npm                             
-@npmcli/agent                                                                        4.0.2                                                    npm                             
-@npmcli/agent                                                                        5.0.2                                                    npm                             
-@npmcli/arborist                                                                     10.0.3                                                   npm                             
-@npmcli/arborist                                                                     9.9.2                                                    npm                             
-@npmcli/config                                                                       10.13.0                                                  npm                             
+@npmcli/agent                                                                        5.0.2                                                    npm           (+1 duplicate)    
+@npmcli/arborist                                                                     10.0.3                                                   npm           (+1 duplicate)    
+@npmcli/config                                                                       11.1.0                                                   npm                             
 @npmcli/config                                                                       11.2.0                                                   npm                             
-@npmcli/fs                                                                           5.0.0                                                    npm                             
-@npmcli/fs                                                                           6.0.0                                                    npm                             
-@npmcli/git                                                                          7.0.2                                                    npm                             
-@npmcli/git                                                                          8.0.0                                                    npm                             
-@npmcli/installed-package-contents                                                   4.0.0                                                    npm                             
-@npmcli/installed-package-contents                                                   5.0.0                                                    npm                             
-@npmcli/map-workspaces                                                               5.0.3                                                    npm                             
-@npmcli/map-workspaces                                                               6.0.0                                                    npm                             
-@npmcli/metavuln-calculator                                                          10.0.0                                                   npm                             
-@npmcli/metavuln-calculator                                                          9.0.3                                                    npm                             
-@npmcli/name-from-folder                                                             4.0.0                                                    npm                             
-@npmcli/name-from-folder                                                             5.0.0                                                    npm                             
-@npmcli/node-gyp                                                                     5.0.0                                                    npm                             
-@npmcli/node-gyp                                                                     6.0.0                                                    npm                             
-@npmcli/package-json                                                                 7.0.5                                                    npm                             
-@npmcli/package-json                                                                 8.0.0                                                    npm                             
-@npmcli/promise-spawn                                                                10.0.0                                                   npm                             
-@npmcli/promise-spawn                                                                9.0.1                                                    npm                             
+@npmcli/fs                                                                           6.0.0                                                    npm           (+1 duplicate)    
+@npmcli/git                                                                          8.0.0                                                    npm           (+1 duplicate)    
+@npmcli/installed-package-contents                                                   5.0.0                                                    npm           (+1 duplicate)    
+@npmcli/map-workspaces                                                               6.0.0                                                    npm           (+1 duplicate)    
+@npmcli/metavuln-calculator                                                          10.0.0                                                   npm           (+1 duplicate)    
+@npmcli/name-from-folder                                                             5.0.0                                                    npm           (+1 duplicate)    
+@npmcli/node-gyp                                                                     6.0.0                                                    npm           (+1 duplicate)    
+@npmcli/package-json                                                                 8.0.0                                                    npm           (+1 duplicate)    
+@npmcli/promise-spawn                                                                10.0.0                                                   npm           (+1 duplicate)    
 @npmcli/query                                                                        5.0.0                                                    npm           (+1 duplicate)    
-@npmcli/redact                                                                       4.0.0                                                    npm                             
-@npmcli/redact                                                                       5.0.0                                                    npm                             
-@npmcli/run-script                                                                   10.0.4                                                   npm                             
-@npmcli/run-script                                                                   11.0.0                                                   npm                             
-@openclaw/a2a                                                                        2026.9.9                                                 npm                             
-@openclaw/admin-http-rpc                                                             2026.9.9                                                 npm                             
-@openclaw/agentsapi                                                                  2026.9.9                                                 npm                             
-@openclaw/ai                                                                         2026.9.9                                                 npm                             
-@openclaw/alibaba-provider                                                           2026.9.9                                                 npm                             
-@openclaw/anthropic-provider                                                         2026.9.9                                                 npm                             
-@openclaw/apple-fm-provider                                                          2026.9.9                                                 npm                             
-@openclaw/azure-speech                                                               2026.9.9                                                 npm                             
-@openclaw/beam                                                                       2026.9.9                                                 npm                             
-@openclaw/bonjour                                                                    2026.9.9                                                 npm                             
-@openclaw/browser-plugin                                                             2026.9.9                                                 npm                             
-@openclaw/canvas-plugin                                                              2026.9.9                                                 npm                             
-@openclaw/clawrouter                                                                 2026.9.9                                                 npm                             
-@openclaw/code-mode-quickjs                                                          2026.9.9                                                 npm                             
-@openclaw/copilot-proxy                                                              2026.9.9                                                 npm                             
-@openclaw/crabbox-provider                                                           2026.9.9                                                 npm                             
-@openclaw/cua-computer                                                               2026.9.9                                                 npm                             
-@openclaw/deepgram-provider                                                          2026.9.9                                                 npm                             
-@openclaw/document-extract-plugin                                                    2026.9.9                                                 npm                             
-@openclaw/elevenlabs-speech                                                          2026.9.9                                                 npm                             
-@openclaw/fal-provider                                                               2026.9.9                                                 npm                             
-@openclaw/file-transfer                                                              2026.9.9                                                 npm                             
-@openclaw/fs-safe                                                                    0.21.1                                                   npm                             
-@openclaw/fs-safe-linux-x64-gnu                                                      0.21.1                                                   npm                             
-@openclaw/geolocation-plugin                                                         2026.9.9                                                 npm                             
-@openclaw/github                                                                     2026.9.9                                                 npm                             
-@openclaw/github-copilot-provider                                                    2026.9.9                                                 npm                             
-@openclaw/google-plugin                                                              2026.9.9                                                 npm                             
-@openclaw/huggingface-provider                                                       2026.9.9                                                 npm                             
-@openclaw/image-generation-core                                                      2026.9.9                                                 npm                             
-@openclaw/imap                                                                       2026.9.9                                                 npm                             
-@openclaw/kie-provider                                                               2026.9.9                                                 npm                             
-@openclaw/linux-node                                                                 2026.9.9                                                 npm                             
-@openclaw/litellm-provider                                                           2026.9.9                                                 npm                             
-@openclaw/llm-task                                                                   2026.9.9                                                 npm                             
-@openclaw/lmstudio-provider                                                          2026.9.9                                                 npm                             
-@openclaw/logbook                                                                    2026.9.9                                                 npm                             
-@openclaw/memory-core                                                                2026.9.9                                                 npm                             
-@openclaw/memory-wiki                                                                2026.9.9                                                 npm                             
-@openclaw/microsoft-foundry                                                          2026.9.9                                                 npm                             
-@openclaw/microsoft-speech                                                           2026.9.9                                                 npm                             
-@openclaw/migrate-claude                                                             2026.9.9                                                 npm                             
-@openclaw/migrate-hermes                                                             2026.9.9                                                 npm                             
-@openclaw/minimax-provider                                                           2026.9.9                                                 npm                             
-@openclaw/nvidia-provider                                                            2026.9.9                                                 npm                             
-@openclaw/oc-path                                                                    2026.9.9                                                 npm                             
-@openclaw/ollama-provider                                                            2026.9.9                                                 npm                             
-@openclaw/onepassword                                                                2026.9.9                                                 npm                             
-@openclaw/openai-provider                                                            2026.9.9                                                 npm                             
-@openclaw/opencode-go-provider                                                       2026.9.9                                                 npm                             
-@openclaw/openrouter-provider                                                        2026.9.9                                                 npm                             
-@openclaw/policy                                                                     2026.9.9                                                 npm                             
+@npmcli/redact                                                                       5.0.0                                                    npm           (+1 duplicate)    
+@npmcli/run-script                                                                   11.0.0                                                   npm           (+1 duplicate)    
+@openclaw/a2a                                                                        2026.10.1                                                npm                             
+@openclaw/admin-http-rpc                                                             2026.10.1                                                npm                             
+@openclaw/agentsapi                                                                  2026.10.1                                                npm                             
+@openclaw/ai                                                                         2026.10.1                                                npm                             
+@openclaw/alibaba-provider                                                           2026.10.1                                                npm                             
+@openclaw/anthropic-provider                                                         2026.10.1                                                npm                             
+@openclaw/apple-fm-provider                                                          2026.10.1                                                npm                             
+@openclaw/azure-speech                                                               2026.10.1                                                npm                             
+@openclaw/beam                                                                       2026.10.1                                                npm                             
+@openclaw/bonjour                                                                    2026.10.1                                                npm                             
+@openclaw/browser-plugin                                                             2026.10.1                                                npm                             
+@openclaw/canvas-plugin                                                              2026.10.1                                                npm                             
+@openclaw/clawrouter                                                                 2026.10.1                                                npm                             
+@openclaw/cloudflare                                                                 2026.10.1                                                npm                             
+@openclaw/code-mode-quickjs                                                          2026.10.1                                                npm                             
+@openclaw/copilot-proxy                                                              2026.10.1                                                npm                             
+@openclaw/crabbox-provider                                                           2026.10.1                                                npm                             
+@openclaw/cua-computer                                                               2026.10.1                                                npm                             
+@openclaw/deepgram-provider                                                          2026.10.1                                                npm                             
+@openclaw/document-extract-plugin                                                    2026.10.1                                                npm                             
+@openclaw/elevenlabs-speech                                                          2026.10.1                                                npm                             
+@openclaw/fal-provider                                                               2026.10.1                                                npm                             
+@openclaw/file-transfer                                                              2026.10.1                                                npm                             
+@openclaw/fs-safe                                                                    0.24.2                                                   npm                             
+@openclaw/fs-safe-linux-x64-gnu                                                      0.24.2                                                   npm                             
+@openclaw/geolocation-plugin                                                         2026.10.1                                                npm                             
+@openclaw/github                                                                     2026.10.1                                                npm                             
+@openclaw/github-copilot-provider                                                    2026.10.1                                                npm                             
+@openclaw/google-plugin                                                              2026.10.1                                                npm                             
+@openclaw/huggingface-provider                                                       2026.10.1                                                npm                             
+@openclaw/image-generation-core                                                      2026.10.1                                                npm                             
+@openclaw/imap                                                                       2026.10.1                                                npm                             
+@openclaw/kie-provider                                                               2026.10.1                                                npm                             
+@openclaw/linux-node                                                                 2026.10.1                                                npm                             
+@openclaw/litellm-provider                                                           2026.10.1                                                npm                             
+@openclaw/llm-task                                                                   2026.10.1                                                npm                             
+@openclaw/lmstudio-provider                                                          2026.10.1                                                npm                             
+@openclaw/logbook                                                                    2026.10.1                                                npm                             
+@openclaw/memory-core                                                                2026.10.1                                                npm                             
+@openclaw/memory-wiki                                                                2026.10.1                                                npm                             
+@openclaw/microsoft-foundry                                                          2026.10.1                                                npm                             
+@openclaw/microsoft-speech                                                           2026.10.1                                                npm                             
+@openclaw/migrate-claude                                                             2026.10.1                                                npm                             
+@openclaw/migrate-hermes                                                             2026.10.1                                                npm                             
+@openclaw/minimax-provider                                                           2026.10.1                                                npm                             
+@openclaw/nvidia-provider                                                            2026.10.1                                                npm                             
+@openclaw/oc-path                                                                    2026.10.1                                                npm                             
+@openclaw/ollama-provider                                                            2026.10.1                                                npm                             
+@openclaw/onepassword                                                                2026.10.1                                                npm                             
+@openclaw/openai-provider                                                            2026.10.1                                                npm                             
+@openclaw/opencode-go-provider                                                       2026.10.1                                                npm                             
+@openclaw/openrouter-provider                                                        2026.10.1                                                npm                             
+@openclaw/policy                                                                     2026.10.1                                                npm                             
 @openclaw/proxyline                                                                  0.3.12                                                   npm                             
-@openclaw/reef                                                                       2026.9.9                                                 npm                             
-@openclaw/runway-provider                                                            2026.9.9                                                 npm                             
-@openclaw/senseaudio-provider                                                        2026.9.9                                                 npm                             
-@openclaw/session-share                                                              2026.9.9                                                 npm                             
-@openclaw/sglang-provider                                                            2026.9.9                                                 npm                             
-@openclaw/telegram                                                                   2026.9.9                                                 npm                             
-@openclaw/together-provider                                                          2026.9.9                                                 npm                             
-@openclaw/tts-local-cli                                                              2026.9.9                                                 npm                             
-@openclaw/vault                                                                      2026.9.9                                                 npm                             
-@openclaw/vllm-provider                                                              2026.9.9                                                 npm                             
-@openclaw/web-readability-plugin                                                     2026.9.9                                                 npm                             
-@openclaw/workboard                                                                  2026.9.9                                                 npm                             
-@openclaw/xai-plugin                                                                 2026.9.9                                                 npm                             
-@opencode-ai/plugin                                                                  1.18.35                                                  npm                             
-@opencode-ai/sdk                                                                     1.18.35                                                  npm           (+1 duplicate)    
+@openclaw/reef                                                                       2026.10.1                                                npm                             
+@openclaw/runway-provider                                                            2026.10.1                                                npm                             
+@openclaw/senseaudio-provider                                                        2026.10.1                                                npm                             
+@openclaw/session-share                                                              2026.10.1                                                npm                             
+@openclaw/sglang-provider                                                            2026.10.1                                                npm                             
+@openclaw/telegram                                                                   2026.10.1                                                npm                             
+@openclaw/together-provider                                                          2026.10.1                                                npm                             
+@openclaw/tts-local-cli                                                              2026.10.1                                                npm                             
+@openclaw/vault                                                                      2026.10.1                                                npm                             
+@openclaw/vllm-provider                                                              2026.10.1                                                npm                             
+@openclaw/web-readability-plugin                                                     2026.10.1                                                npm                             
+@openclaw/workboard                                                                  2026.10.1                                                npm                             
+@openclaw/xai-plugin                                                                 2026.10.1                                                npm                             
+@opencode-ai/plugin                                                                  1.19.0                                                   npm                             
+@opencode-ai/sdk                                                                     1.19.0                                                   npm           (+1 duplicate)    
 @openrouter/ai-sdk-provider                                                          3.1.0                                                    npm                             
 @opentelemetry/api                                                                   1.9.0                                                    npm                             
 @opentelemetry/api                                                                   1.9.1                                                    npm                             
@@ -307,17 +295,12 @@ NAME                                                                            
 @sap/xsenv                                                                           6.2.2                                                    npm                             
 @sap/xssec                                                                           4.15.0                                                   npm                             
 @sec-ant/readable-stream                                                             0.4.1                                                    npm                             
-@sigstore/bundle                                                                     4.0.0                                                    npm                             
-@sigstore/bundle                                                                     5.0.0                                                    npm                             
-@sigstore/core                                                                       3.2.1                                                    npm                             
-@sigstore/core                                                                       4.0.1                                                    npm                             
+@sigstore/bundle                                                                     5.0.0                                                    npm           (+1 duplicate)    
+@sigstore/core                                                                       4.0.1                                                    npm           (+1 duplicate)    
 @sigstore/protobuf-specs                                                             0.5.1                                                    npm           (+1 duplicate)    
-@sigstore/sign                                                                       4.1.1                                                    npm                             
-@sigstore/sign                                                                       5.0.0                                                    npm                             
-@sigstore/tuf                                                                        4.0.2                                                    npm                             
-@sigstore/tuf                                                                        5.0.0                                                    npm                             
-@sigstore/verify                                                                     3.1.1                                                    npm                             
-@sigstore/verify                                                                     4.1.0                                                    npm                             
+@sigstore/sign                                                                       5.0.0                                                    npm           (+1 duplicate)    
+@sigstore/tuf                                                                        5.0.0                                                    npm           (+1 duplicate)    
+@sigstore/verify                                                                     4.1.0                                                    npm           (+1 duplicate)    
 @silvia-odwyer/photon-node                                                           0.3.4                                                    npm                             
 @simple-git/args-pathspec                                                            1.0.4                                                    npm                             
 @simple-git/argv-parser                                                              1.1.1                                                    npm                             
@@ -340,8 +323,7 @@ NAME                                                                            
 @trycua/cua-driver                                                                   0.28.2                                                   npm                             
 @trycua/cua-driver-linux-x64-gnu                                                     0.28.2                                                   npm                             
 @tufjs/canonical-json                                                                2.0.0                                                    npm           (+1 duplicate)    
-@tufjs/models                                                                        4.1.0                                                    npm                             
-@tufjs/models                                                                        5.0.0                                                    npm                             
+@tufjs/models                                                                        5.0.0                                                    npm           (+1 duplicate)    
 @types/jsesc                                                                         2.5.1                                                    npm                             
 @types/node                                                                          22.16.3                                                  npm                             
 @types/node                                                                          26.6.5                                                   npm           (+1 duplicate)    
@@ -368,8 +350,7 @@ Microsoft.PowerShell.PSReadLine                                                 
 Microsoft.PowerShell.PSReadLine.Polyfiller                                           1.0.0.0                                                  dotnet        (+1 duplicate)    
 Microsoft.PowerShell.Pager                                                           1.0.0.0                                                  dotnet                          
 Simple Launcher                                                                      1.1.0.14                                                 binary        (+5 duplicates)   
-abbrev                                                                               4.0.0                                                    npm                             
-abbrev                                                                               5.0.0                                                    npm           (+2 duplicates)   
+abbrev                                                                               5.0.0                                                    npm           (+3 duplicates)   
 abort-controller                                                                     3.0.0                                                    npm                             
 abseil-cpp                                                                           20260817.0-2                                             alpm                            
 accepts                                                                              2.0.0                                                    npm           (+2 duplicates)   
@@ -387,8 +368,8 @@ adwaita-icon-theme-legacy                                                       
 aes                                                                                  0.8.4                                                    rust-crate    (+1 duplicate)    
 agent-base                                                                           6.0.2                                                    npm                             
 agent-base                                                                           7.1.3                                                    npm                             
-agent-base                                                                           7.1.4                                                    npm           (+2 duplicates)   
-agent-base                                                                           9.0.0                                                    npm           (+1 duplicate)    
+agent-base                                                                           7.1.4                                                    npm           (+1 duplicate)    
+agent-base                                                                           9.0.0                                                    npm           (+3 duplicates)   
 aho-corasick                                                                         1.1.4                                                    rust-crate    (+1 duplicate)    
 ai                                                                                   6.0.303                                                  npm                             
 ai                                                                                   7.0.137                                                  npm           (+1 duplicate)    
@@ -423,7 +404,7 @@ anstyle-parse                                                                   
 anstyle-query                                                                        1.1.5                                                    rust-crate    (+1 duplicate)    
 anyhow                                                                               1.0.104                                                  rust-crate    (+1 duplicate)    
 anyio                                                                                4.15.1                                                   python                          
-aom                                                                                  3.15.1-1                                                 alpm                            
+aom                                                                                  3.15.2-1                                                 alpm                            
 applicationinsights                                                                  2.9.8                                                    npm                             
 appstream                                                                            1.2.1-1                                                  alpm                            
 appstream-qt                                                                         1.2.1-1                                                  alpm                            
@@ -496,8 +477,7 @@ bat                                                                             
 benchmark                                                                            1.0.0                                                    npm           (+2 duplicates)   
 best-effort-json-parser                                                              1.2.1                                                    npm                             
 bignumber.js                                                                         9.3.1                                                    npm           (+2 duplicates)   
-bin-links                                                                            6.0.2                                                    npm                             
-bin-links                                                                            7.0.0                                                    npm                             
+bin-links                                                                            7.0.0                                                    npm           (+1 duplicate)    
 binary-extensions                                                                    3.1.0                                                    npm           (+1 duplicate)    
 binutils                                                                             2.47-4                                                   alpm                            
 bison                                                                                3.8.2-8                                                  alpm                            
@@ -538,8 +518,7 @@ c-ares                                                                          
 ca-certificates                                                                      20240618-1                                               alpm                            
 ca-certificates-mozilla                                                              3.131-1                                                  alpm                            
 ca-certificates-utils                                                                20240618-1                                               alpm                            
-cacache                                                                              20.0.4                                                   npm                             
-cacache                                                                              21.0.1                                                   npm                             
+cacache                                                                              21.0.1                                                   npm           (+1 duplicate)    
 cairo                                                                                1.18.6-1                                                 alpm                            
 call-bind-apply-helpers                                                              1.0.2                                                    npm           (+2 duplicates)   
 call-bound                                                                           1.0.4                                                    npm           (+2 duplicates)   
@@ -561,13 +540,11 @@ chalk                                                                           
 chalk                                                                                5.6.2                                                    npm           (+1 duplicate)    
 chalk                                                                                6.0.0                                                    npm                             
 charset                                                                              0.1.5                                                    rust-crate    (+1 duplicate)    
-chokidar                                                                             5.0.0                                                    npm                             
 chownr                                                                               3.0.0                                                    npm           (+3 duplicates)   
-chrome-devtools-mcp                                                                  1.9.0                                                    npm                             
+chrome-devtools-mcp                                                                  1.10.1                                                   npm                             
 chromium                                                                             153.0.8010.52-1                                          alpm                            
 ci-info                                                                              4.4.0                                                    npm           (+1 duplicate)    
-cidr-regex                                                                           5.0.5                                                    npm                             
-cidr-regex                                                                           6.0.0                                                    npm                             
+cidr-regex                                                                           6.0.0                                                    npm           (+1 duplicate)    
 cifs-utils                                                                           7.8-1                                                    alpm                            
 cipher                                                                               0.4.4                                                    rust-crate    (+1 duplicate)    
 cjs-module-lexer                                                                     2.2.0                                                    npm                             
@@ -599,8 +576,7 @@ cloud.google.com/go/monitoring                                                  
 cloud.google.com/go/storage                                                          v1.65.0                                                  go-module                       
 cls-hooked                                                                           4.2.2                                                    npm                             
 cmake                                                                                4.4.4-1                                                  alpm                            
-cmd-shim                                                                             8.0.0                                                    npm                             
-cmd-shim                                                                             9.0.2                                                    npm                             
+cmd-shim                                                                             9.0.2                                                    npm           (+1 duplicate)    
 cmov                                                                                 0.5.4                                                    rust-crate    (+1 duplicate)    
 code                                                                                 1.138.0-1                                                alpm                            
 coffeescript                                                                         10.0.0                                                   npm                             
@@ -742,7 +718,7 @@ domhandler                                                                      
 domutils                                                                             3.2.2                                                    npm                             
 domutils                                                                             4.0.2                                                    npm                             
 dotenv                                                                               10.0.0                                                   npm                             
-dotenv                                                                               18.0.1                                                   npm                             
+dotenv                                                                               18.0.3                                                   npm                             
 dotenvy                                                                              0.15.7                                                   rust-crate    (+1 duplicate)    
 double-conversion                                                                    3.4.0-1                                                  alpm                            
 duktape                                                                              2.7.0-7                                                  alpm                            
@@ -1389,8 +1365,7 @@ hmac                                                                            
 homedir                                                                              0.3.6                                                    rust-crate    (+1 duplicate)    
 hono                                                                                 4.12.34                                                  npm                             
 hono                                                                                 4.13.13                                                  npm           (+1 duplicate)    
-hosted-git-info                                                                      10.1.1                                                   npm           (+1 duplicate)    
-hosted-git-info                                                                      9.0.3                                                    npm                             
+hosted-git-info                                                                      10.1.1                                                   npm           (+2 duplicates)   
 html                                                                                 10.0.0                                                   npm                             
 html-escaper                                                                         3.0.3                                                    npm                             
 html-language-features                                                               10.0.0                                                   npm                             
@@ -1401,15 +1376,15 @@ http-body-util                                                                  
 http-cache-semantics                                                                 4.2.0                                                    npm           (+1 duplicate)    
 http-content-range                                                                   0.2.5                                                    rust-crate    (+1 duplicate)    
 http-errors                                                                          2.0.1                                                    npm           (+2 duplicates)   
-http-proxy-agent                                                                     7.0.2                                                    npm           (+1 duplicate)    
-http-proxy-agent                                                                     9.1.0                                                    npm                             
+http-proxy-agent                                                                     7.0.2                                                    npm                             
+http-proxy-agent                                                                     9.1.0                                                    npm           (+1 duplicate)    
 http_ece                                                                             1.2.0                                                    npm                             
 httparse                                                                             1.10.1                                                   rust-crate    (+1 duplicate)    
 httpcore                                                                             1.0.9                                                    python                          
 httpdate                                                                             1.0.3                                                    rust-crate    (+1 duplicate)    
 https-proxy-agent                                                                    5.0.1                                                    npm                             
-https-proxy-agent                                                                    7.0.6                                                    npm           (+3 duplicates)   
-https-proxy-agent                                                                    9.1.0                                                    npm                             
+https-proxy-agent                                                                    7.0.6                                                    npm           (+2 duplicates)   
+https-proxy-agent                                                                    9.1.0                                                    npm           (+1 duplicate)    
 httptools                                                                            0.8.0                                                    python                          
 httpx                                                                                0.28.1                                                   python                          
 httpx-ws                                                                             0.9.0                                                    python                          
@@ -1423,8 +1398,8 @@ hyper-rustls                                                                    
 hyper-util                                                                           0.1.20                                                   rust-crate    (+1 duplicate)    
 i2c-tools                                                                            4.4-4                                                    alpm                            
 iana-etc                                                                             20260617-1                                               alpm                            
-iconv-lite                                                                           0.7.2                                                    npm           (+2 duplicates)   
-iconv-lite                                                                           0.7.3                                                    npm           (+2 duplicates)   
+iconv-lite                                                                           0.7.2                                                    npm           (+1 duplicate)    
+iconv-lite                                                                           0.7.3                                                    npm           (+3 duplicates)   
 icu                                                                                  78.3-1                                                   alpm                            
 icu_collections                                                                      2.1.1                                                    rust-crate    (+1 duplicate)    
 icu_locale_core                                                                      2.1.1                                                    rust-crate    (+1 duplicate)    
@@ -1440,8 +1415,7 @@ ieee754                                                                         
 ignore                                                                               0.4.33                                                   rust-crate    (+1 duplicate)    
 ignore                                                                               7.0.5                                                    npm                             
 ignore                                                                               7.0.9                                                    npm                             
-ignore-walk                                                                          8.0.0                                                    npm                             
-ignore-walk                                                                          9.0.0                                                    npm                             
+ignore-walk                                                                          9.0.0                                                    npm           (+1 duplicate)    
 iio-sensor-proxy                                                                     3.9-1                                                    alpm                            
 image                                                                                0.25.10                                                  rust-crate    (+1 duplicate)    
 imath                                                                                3.2.3-1                                                  alpm                            
@@ -1457,10 +1431,8 @@ inetutils                                                                       
 inflect                                                                              7.3.1                                                    python        (+1 duplicate)    
 inherits                                                                             2.0.4                                                    npm           (+2 duplicates)   
 ini                                                                                  10.0.0                                                   npm                             
-ini                                                                                  6.0.0                                                    npm                             
-ini                                                                                  7.0.0                                                    npm           (+1 duplicate)    
-init-package-json                                                                    8.2.5                                                    npm                             
-init-package-json                                                                    9.0.0                                                    npm                             
+ini                                                                                  7.0.0                                                    npm           (+2 duplicates)   
+init-package-json                                                                    9.0.0                                                    npm           (+1 duplicate)    
 inout                                                                                0.1.4                                                    rust-crate    (+1 duplicate)    
 insta                                                                                1.48.0                                                   rust-crate    (+1 duplicate)    
 intel-gmmlib                                                                         22.10.0-1                                                alpm                            
@@ -1476,8 +1448,7 @@ iproute2                                                                        
 iptables                                                                             1:1.8.13-1                                               alpm                            
 ipynb                                                                                10.0.0                                                   npm                             
 iri-string                                                                           0.7.10                                                   rust-crate    (+1 duplicate)    
-is-cidr                                                                              6.0.4                                                    npm                             
-is-cidr                                                                              7.0.0                                                    npm                             
+is-cidr                                                                              7.0.0                                                    npm           (+1 duplicate)    
 is-fullwidth-code-point                                                              3.0.0                                                    npm           (+1 duplicate)    
 is-plain-obj                                                                         4.1.0                                                    npm                             
 is-promise                                                                           4.0.0                                                    npm           (+2 duplicates)   
@@ -1528,8 +1499,7 @@ json-bigint                                                                     
 json-c                                                                               0.19-1                                                   alpm                            
 json-glib                                                                            1.10.8-1                                                 alpm                            
 json-language-features                                                               10.0.0                                                   npm                             
-json-parse-even-better-errors                                                        5.0.0                                                    npm                             
-json-parse-even-better-errors                                                        6.0.0                                                    npm                             
+json-parse-even-better-errors                                                        6.0.0                                                    npm           (+1 duplicate)    
 json-schema                                                                          0.4.0                                                    npm           (+1 duplicate)    
 json-schema-to-ts                                                                    3.1.1                                                    npm           (+1 duplicate)    
 json-schema-traverse                                                                 1.0.0                                                    npm           (+2 duplicates)   
@@ -1758,26 +1728,16 @@ libnghttp3                                                                      
 libngtcp2                                                                            1.25.0-1                                                 alpm                            
 libnl                                                                                3.12.0-1                                                 alpm                            
 libnotify                                                                            0.8.8-1                                                  alpm                            
-libnpmaccess                                                                         10.0.3                                                   npm                             
-libnpmaccess                                                                         11.0.0                                                   npm                             
-libnpmdiff                                                                           8.1.13                                                   npm                             
-libnpmdiff                                                                           9.0.3                                                    npm                             
-libnpmexec                                                                           10.3.3                                                   npm                             
-libnpmexec                                                                           11.0.3                                                   npm                             
-libnpmfund                                                                           7.0.27                                                   npm                             
-libnpmfund                                                                           8.0.3                                                    npm                             
-libnpmorg                                                                            8.0.1                                                    npm                             
-libnpmorg                                                                            9.0.0                                                    npm                             
-libnpmpack                                                                           10.0.3                                                   npm                             
-libnpmpack                                                                           9.1.14                                                   npm                             
-libnpmpublish                                                                        11.2.1                                                   npm                             
-libnpmpublish                                                                        12.0.1                                                   npm                             
-libnpmsearch                                                                         10.0.0                                                   npm                             
-libnpmsearch                                                                         9.0.1                                                    npm                             
-libnpmteam                                                                           8.0.2                                                    npm                             
-libnpmteam                                                                           9.0.0                                                    npm                             
-libnpmversion                                                                        8.0.4                                                    npm                             
-libnpmversion                                                                        9.0.0                                                    npm                             
+libnpmaccess                                                                         11.0.0                                                   npm           (+1 duplicate)    
+libnpmdiff                                                                           9.0.3                                                    npm           (+1 duplicate)    
+libnpmexec                                                                           11.0.3                                                   npm           (+1 duplicate)    
+libnpmfund                                                                           8.0.3                                                    npm           (+1 duplicate)    
+libnpmorg                                                                            9.0.0                                                    npm           (+1 duplicate)    
+libnpmpack                                                                           10.0.3                                                   npm           (+1 duplicate)    
+libnpmpublish                                                                        12.0.1                                                   npm           (+1 duplicate)    
+libnpmsearch                                                                         10.0.0                                                   npm           (+1 duplicate)    
+libnpmteam                                                                           9.0.0                                                    npm           (+1 duplicate)    
+libnpmversion                                                                        9.0.0                                                    npm           (+1 duplicate)    
 libnsl                                                                               2.0.1-2                                                  alpm                            
 libnvme                                                                              1.16.2-2                                                 alpm                            
 libobjc                                                                              16.2.1+r23+gd564253eb6c8-1                               alpm                            
@@ -1800,7 +1760,7 @@ libproxy                                                                        
 libpsl                                                                               0.21.5-2                                                 alpm                            
 libpulse                                                                             17.0+r98+gb096704c0-1                                    alpm                            
 libqaccessibilityclient-qt6                                                          0.6.0-4                                                  alpm                            
-libqalculate                                                                         5.13.1-1                                                 alpm                            
+libqalculate                                                                         5.13.2-1                                                 alpm                            
 libqmi                                                                               1.38.0-1                                                 alpm                            
 libqrtr-glib                                                                         1.4.0-1                                                  alpm                            
 libquadmath                                                                          16.2.1+r23+gd564253eb6c8-1                               alpm                            
@@ -1922,8 +1882,7 @@ logform                                                                         
 long                                                                                 5.3.2                                                    npm           (+2 duplicates)   
 loose-envify                                                                         1.4.0                                                    npm                             
 lru-cache                                                                            11.1.0                                                   npm                             
-lru-cache                                                                            11.5.1                                                   npm                             
-lru-cache                                                                            11.5.2                                                   npm                             
+lru-cache                                                                            11.5.2                                                   npm           (+1 duplicate)    
 lru-cache                                                                            11.5.3                                                   npm                             
 lru-slab                                                                             0.1.2                                                    rust-crate    (+1 duplicate)    
 lua                                                                                  10.0.0                                                   npm                             
@@ -1936,8 +1895,7 @@ mailcap                                                                         
 mailparse                                                                            0.16.1                                                   rust-crate    (+1 duplicate)    
 make                                                                                 10.0.0                                                   npm                             
 make                                                                                 4.4.1-3                                                  alpm                            
-make-fetch-happen                                                                    15.0.6                                                   npm                             
-make-fetch-happen                                                                    16.0.1                                                   npm                             
+make-fetch-happen                                                                    16.0.1                                                   npm           (+1 duplicate)    
 mako                                                                                 1.3.12.dev0                                              python                          
 mariadb                                                                              13.0.2-2                                                 alpm                            
 mariadb-clients                                                                      13.0.2-2                                                 alpm                            
@@ -1986,8 +1944,7 @@ minimist                                                                        
 minipass                                                                             3.3.6                                                    npm           (+1 duplicate)    
 minipass                                                                             7.1.3                                                    npm           (+3 duplicates)   
 minipass-collect                                                                     2.0.1                                                    npm           (+1 duplicate)    
-minipass-fetch                                                                       5.0.2                                                    npm                             
-minipass-fetch                                                                       6.0.0                                                    npm                             
+minipass-fetch                                                                       6.0.0                                                    npm           (+1 duplicate)    
 minipass-flush                                                                       1.0.6                                                    npm           (+1 duplicate)    
 minipass-pipeline                                                                    1.2.4                                                    npm           (+1 duplicate)    
 minipass-sized                                                                       2.0.0                                                    npm           (+1 duplicate)    
@@ -2011,8 +1968,7 @@ mtdev                                                                           
 multidict                                                                            6.9.1                                                    python                          
 multipasta                                                                           0.2.8                                                    npm                             
 munge                                                                                0.4.7                                                    rust-crate    (+1 duplicate)    
-mute-stream                                                                          3.0.0                                                    npm                             
-mute-stream                                                                          4.0.0                                                    npm                             
+mute-stream                                                                          4.0.0                                                    npm           (+1 duplicate)    
 my-test-package                                                                      1.0                                                      python        (+1 duplicate)    
 nano                                                                                 9.2-1                                                    alpm                            
 nanoid                                                                               5.1.16                                                   npm                             
@@ -2034,7 +1990,7 @@ node-edge-tts                                                                   
 node-fetch                                                                           2.7.0                                                    npm                             
 node-fetch                                                                           3.3.2                                                    npm           (+2 duplicates)   
 node-forge                                                                           1.4.0                                                    npm                             
-node-gyp                                                                             12.4.0                                                   npm                             
+node-gyp                                                                             13.0.0                                                   npm                             
 node-gyp                                                                             13.1.0                                                   npm                             
 node-gyp                                                                             13.1.0-1                                                 alpm                            
 node-gyp-build-optional-packages                                                     5.2.2                                                    npm                             
@@ -2045,36 +2001,25 @@ node-rsa                                                                        
 nodejs                                                                               26.11.1-1                                                alpm                            
 nodejs-nopt                                                                          10.0.1-1                                                 alpm                            
 nom                                                                                  7.1.3                                                    rust-crate    (+1 duplicate)    
-nopt                                                                                 10.0.1                                                   npm                             
-nopt                                                                                 9.0.0                                                    npm                             
+nopt                                                                                 10.0.1                                                   npm           (+1 duplicate)    
 noto-fonts                                                                           1:2026.10.01-1                                           alpm                            
 noto-fonts-cjk                                                                       20240730-1                                               alpm                            
 noto-fonts-emoji                                                                     1:2.051-1                                                alpm                            
 npm                                                                                  10.0.0                                                   npm                             
-npm                                                                                  11.20.0                                                  npm                             
+npm                                                                                  12.1.0                                                   npm                             
 npm                                                                                  12.2.0                                                   npm                             
 npm                                                                                  12.2.0-1                                                 alpm                            
-npm-audit-report                                                                     7.0.0                                                    npm                             
-npm-audit-report                                                                     8.0.0                                                    npm                             
-npm-bundled                                                                          5.0.0                                                    npm                             
-npm-bundled                                                                          6.0.0                                                    npm                             
-npm-install-checks                                                                   8.0.0                                                    npm                             
-npm-install-checks                                                                   9.0.0                                                    npm                             
-npm-normalize-package-bin                                                            5.0.0                                                    npm                             
-npm-normalize-package-bin                                                            6.0.0                                                    npm           (+2 duplicates)   
-npm-package-arg                                                                      13.0.2                                                   npm                             
-npm-package-arg                                                                      14.0.0                                                   npm                             
-npm-packlist                                                                         10.0.4                                                   npm                             
-npm-packlist                                                                         11.3.0                                                   npm                             
-npm-pick-manifest                                                                    11.0.3                                                   npm                             
-npm-pick-manifest                                                                    12.0.0                                                   npm                             
-npm-profile                                                                          12.0.2                                                   npm                             
-npm-profile                                                                          13.0.1                                                   npm                             
-npm-registry-fetch                                                                   19.1.1                                                   npm                             
-npm-registry-fetch                                                                   20.0.1                                                   npm                             
+npm-audit-report                                                                     8.0.0                                                    npm           (+1 duplicate)    
+npm-bundled                                                                          6.0.0                                                    npm           (+1 duplicate)    
+npm-install-checks                                                                   9.0.0                                                    npm           (+1 duplicate)    
+npm-normalize-package-bin                                                            6.0.0                                                    npm           (+5 duplicates)   
+npm-package-arg                                                                      14.0.0                                                   npm           (+1 duplicate)    
+npm-packlist                                                                         11.3.0                                                   npm           (+1 duplicate)    
+npm-pick-manifest                                                                    12.0.0                                                   npm           (+1 duplicate)    
+npm-profile                                                                          13.0.1                                                   npm           (+1 duplicate)    
+npm-registry-fetch                                                                   20.0.1                                                   npm           (+1 duplicate)    
 npm-run-path                                                                         6.0.0                                                    npm                             
-npm-user-validate                                                                    4.0.0                                                    npm                             
-npm-user-validate                                                                    5.0.0                                                    npm                             
+npm-user-validate                                                                    5.0.0                                                    npm           (+1 duplicate)    
 npth                                                                                 1.8-1                                                    alpm                            
 nspr                                                                                 4.40-1                                                   alpm                            
 nss                                                                                  3.131-1                                                  alpm                            
@@ -2106,15 +2051,15 @@ once_cell                                                                       
 one-time                                                                             1.0.0                                                    npm                             
 onetbb                                                                               2023.1.0-1                                               alpm                            
 oniguruma                                                                            6.9.10-1                                                 alpm                            
-openai                                                                               7.20.0                                                   npm                             
+openai                                                                               7.23.0                                                   npm                             
 openai-harmony                                                                       0.0.3+lmstudio                                           python        (+2 duplicates)   
 openbox                                                                              3.6.1-14                                                 alpm                            
 openbsd-netcat                                                                       1.238_1-1                                                alpm                            
 opencl-nvidia                                                                        615.78.08-1                                              alpm                            
-openclaw                                                                             2026.9.9                                                 npm                             
-opencode-ai                                                                          1.18.35                                                  npm                             
-opencode-linux-x64                                                                   1.18.35                                                  npm                             
-opencode-linux-x64-baseline                                                          1.18.35                                                  npm                             
+openclaw                                                                             2026.10.1                                                npm                             
+opencode-ai                                                                          1.19.0                                                   npm                             
+opencode-linux-x64                                                                   1.19.0                                                   npm                             
+opencode-linux-x64-baseline                                                          1.19.0                                                   npm                             
 opencode-lmstudio                                                                    0.3.1                                                    npm                             
 opencore-amr                                                                         0.1.6-2                                                  alpm                            
 openexr                                                                              3.5.2-1                                                  alpm                            
@@ -2139,8 +2084,7 @@ owo-colors                                                                      
 p-limit                                                                              2.3.0                                                    npm                             
 p-limit                                                                              7.3.3                                                    npm                             
 p-locate                                                                             4.1.0                                                    npm                             
-p-map                                                                                7.0.4                                                    npm                             
-p-map                                                                                7.0.5                                                    npm                             
+p-map                                                                                7.0.5                                                    npm           (+1 duplicate)    
 p-map                                                                                7.0.8                                                    npm                             
 p-retry                                                                              4.6.2                                                    npm                             
 p-try                                                                                2.2.0                                                    npm                             
@@ -2150,8 +2094,7 @@ packaging                                                                       
 packaging                                                                            26.3                                                     python                          
 pacman                                                                               7.1.0.r9.g54d9411-2                                      alpm                            
 pacman-mirrorlist                                                                    20260610-1                                               alpm                            
-pacote                                                                               21.5.1                                                   npm                             
-pacote                                                                               22.0.0                                                   npm                             
+pacote                                                                               22.0.0                                                   npm           (+1 duplicate)    
 pako                                                                                 1.0.11                                                   npm                             
 pam                                                                                  1.7.3-1                                                  alpm                            
 pambase                                                                              20260616-1                                               alpm                            
@@ -2161,8 +2104,7 @@ papirus-icon-theme                                                              
 parking                                                                              2.2.1                                                    rust-crate    (+1 duplicate)    
 parking_lot                                                                          0.12.5                                                   rust-crate    (+1 duplicate)    
 parking_lot_core                                                                     0.9.12                                                   rust-crate    (+1 duplicate)    
-parse-conflict-json                                                                  5.0.1                                                    npm                             
-parse-conflict-json                                                                  6.0.0                                                    npm                             
+parse-conflict-json                                                                  6.0.0                                                    npm           (+1 duplicate)    
 parse-ms                                                                             4.0.0                                                    npm                             
 parseurl                                                                             1.3.3                                                    npm           (+2 duplicates)   
 parted                                                                               3.8-1                                                    alpm                            
@@ -2197,8 +2139,7 @@ pest_meta                                                                       
 petgraph                                                                             0.8.3                                                    rust-crate    (+1 duplicate)    
 php                                                                                  10.0.0                                                   npm                             
 php-language-features                                                                10.0.0                                                   npm                             
-picomatch                                                                            4.0.4                                                    npm                             
-picomatch                                                                            4.0.5                                                    npm                             
+picomatch                                                                            4.0.5                                                    npm           (+1 duplicate)    
 picomatch                                                                            4.0.7                                                    npm                             
 pillow                                                                               12.3.0                                                   python                          
 pin-project                                                                          1.1.11                                                   rust-crate    (+1 duplicate)    
@@ -2245,8 +2186,7 @@ predicates-tree                                                                 
 pretty-ms                                                                            9.3.1                                                    npm                             
 priority-queue                                                                       2.7.0                                                    rust-crate    (+1 duplicate)    
 prison                                                                               6.30.0-1                                                 alpm                            
-proc-log                                                                             6.1.0                                                    npm                             
-proc-log                                                                             7.0.0                                                    npm           (+1 duplicate)    
+proc-log                                                                             7.0.0                                                    npm           (+2 duplicates)   
 proc-macro-crate                                                                     3.5.0                                                    rust-crate    (+1 duplicate)    
 proc-macro-error2                                                                    2.0.1                                                    rust-crate    (+1 duplicate)    
 proc-macro2                                                                          1.0.107                                                  rust-crate    (+1 duplicate)    
@@ -2259,8 +2199,7 @@ prometheus-client                                                               
 promise-all-reject-late                                                              1.0.1                                                    npm           (+1 duplicate)    
 promise-call-limit                                                                   3.0.2                                                    npm           (+1 duplicate)    
 prompt                                                                               10.0.0                                                   npm                             
-promzard                                                                             3.0.1                                                    npm                             
-promzard                                                                             4.0.0                                                    npm                             
+promzard                                                                             4.0.0                                                    npm           (+1 duplicate)    
 propcache                                                                            0.5.4                                                    python                          
 protobuf                                                                             36.1-1                                                   alpm                            
 protobuf-c                                                                           1.5.2-15                                                 alpm                            
@@ -2268,7 +2207,7 @@ protobufjs                                                                      
 protobufjs                                                                           7.6.6                                                    npm           (+1 duplicate)    
 proxy-addr                                                                           2.0.7                                                    npm                             
 proxy-addr                                                                           2.0.8                                                    npm           (+1 duplicate)    
-proxy-agent-negotiate                                                                1.1.0                                                    npm                             
+proxy-agent-negotiate                                                                1.1.0                                                    npm           (+1 duplicate)    
 proxy-from-env                                                                       2.1.0                                                    npm                             
 psmisc                                                                               23.7-2                                                   alpm                            
 psutil                                                                               7.2.2                                                    python                          
@@ -2297,7 +2236,7 @@ python                                                                          
 python-autocommand                                                                   2.2.2-9                                                  alpm                            
 python-cffi                                                                          2.1.1-1                                                  alpm                            
 python-cryptography                                                                  50.0.2-1                                                 alpm                            
-python-discovery                                                                     1.6.1                                                    python                          
+python-discovery                                                                     1.6.2                                                    python                          
 python-distlib                                                                       0.4.3-1                                                  alpm                            
 python-dotenv                                                                        1.2.4                                                    python                          
 python-filelock                                                                      4.0.1-1                                                  alpm                            
@@ -2314,11 +2253,11 @@ python-more-itertools                                                           
 python-packaging                                                                     26.3-1                                                   alpm                            
 python-platformdirs                                                                  4.12.4-1                                                 alpm                            
 python-pycparser                                                                     3.11-1                                                   alpm                            
-python-python-discovery                                                              1.6.1-1                                                  alpm                            
+python-python-discovery                                                              1.6.2-1                                                  alpm                            
 python-resolvelib                                                                    1.2.1-2                                                  alpm                            
 python-setuptools                                                                    1:84.0.0-1                                               alpm                            
 python-typing_extensions                                                             4.16.0-1                                                 alpm                            
-python-virtualenv                                                                    21.14.5-1                                                alpm                            
+python-virtualenv                                                                    21.14.6-1                                                alpm                            
 python-wheel                                                                         0.48.0-1                                                 alpm                            
 python-yaml                                                                          6.0.3-2                                                  alpm                            
 pyyaml                                                                               6.0.3                                                    python        (+1 duplicate)    
@@ -2373,13 +2312,10 @@ rayon-core                                                                      
 razor                                                                                10.0.0                                                   npm                             
 re2                                                                                  2:2025.11.05-6                                           alpm                            
 react                                                                                17.0.2                                                   npm                             
-read                                                                                 5.0.1                                                    npm                             
-read                                                                                 6.0.0                                                    npm                             
-read-cmd-shim                                                                        6.0.0                                                    npm                             
-read-cmd-shim                                                                        7.0.0                                                    npm                             
+read                                                                                 6.0.0                                                    npm           (+1 duplicate)    
+read-cmd-shim                                                                        7.0.0                                                    npm           (+1 duplicate)    
 readable-stream                                                                      2.3.8                                                    npm                             
 readable-stream                                                                      3.6.2                                                    npm                             
-readdirp                                                                             5.1.1                                                    npm                             
 readline                                                                             8.3.6-1                                                  alpm                            
 ref-cast                                                                             1.0.27                                                   rust-crate    (+1 duplicate)    
 references-view                                                                      10.0.0                                                   npm                             
@@ -2506,8 +2442,7 @@ sigs.k8s.io/json                                                                
 sigs.k8s.io/randfill                                                                 v1.0.0                                                   go-module                       
 sigs.k8s.io/structured-merge-diff/v6                                                 v6.3.3                                                   go-module                       
 sigs.k8s.io/yaml                                                                     v1.6.0                                                   go-module     (+2 duplicates)   
-sigstore                                                                             4.1.1                                                    npm                             
-sigstore                                                                             5.0.0                                                    npm                             
+sigstore                                                                             5.0.0                                                    npm           (+1 duplicate)    
 simd-adler32                                                                         0.3.8                                                    rust-crate    (+1 duplicate)    
 simdjson                                                                             1:5.0.3-1                                                alpm                            
 simdutf8                                                                             0.1.5                                                    rust-crate    (+1 duplicate)    
@@ -2529,8 +2464,7 @@ snappy                                                                          
 sndio                                                                                1.10.0-1                                                 alpm                            
 socket2                                                                              0.6.3                                                    rust-crate    (+1 duplicate)    
 socks                                                                                2.8.9                                                    npm           (+1 duplicate)    
-socks-proxy-agent                                                                    10.1.0                                                   npm                             
-socks-proxy-agent                                                                    8.0.5                                                    npm                             
+socks-proxy-agent                                                                    10.1.0                                                   npm           (+1 duplicate)    
 solid                                                                                6.30.0-1                                                 alpm                            
 sonnet                                                                               6.30.0-1                                                 alpm                            
 sound-theme-freedesktop                                                              0.8-6                                                    alpm                            
@@ -2552,9 +2486,8 @@ sql                                                                             
 sqlite                                                                               3.53.4-1                                                 alpm                            
 sqlite-vec                                                                           0.1.9                                                    npm                             
 sqlite-vec-linux-x64                                                                 0.1.9                                                    npm                             
-srt                                                                                  1.5.7-1                                                  alpm                            
-ssri                                                                                 13.0.1                                                   npm                             
-ssri                                                                                 14.0.0                                                   npm                             
+srt                                                                                  1.5.7-2                                                  alpm                            
+ssri                                                                                 14.0.0                                                   npm           (+1 duplicate)    
 st                                                                                   0.9.3-1                                                  alpm                            
 st-debug                                                                             0.9.3-1                                                  alpm                            
 stable_deref_trait                                                                   1.2.1                                                    rust-crate    (+1 duplicate)    
@@ -2575,7 +2508,7 @@ strip-ansi                                                                      
 strip-ansi-escapes                                                                   0.2.1                                                    rust-crate    (+1 duplicate)    
 strip-final-newline                                                                  4.0.0                                                    npm                             
 strsim                                                                               0.11.1                                                   rust-crate    (+1 duplicate)    
-strtok3                                                                              10.3.5                                                   npm                             
+strtok3                                                                              10.4.0                                                   npm                             
 strum                                                                                0.28.0                                                   rust-crate    (+1 duplicate)    
 subtle                                                                               2.6.1                                                    rust-crate    (+1 duplicate)    
 sudo                                                                                 1.9.17.p2-6                                              alpm                            
@@ -2674,8 +2607,7 @@ tslib                                                                           
 tslog                                                                                5.2.0                                                    npm                             
 ttf-hack                                                                             3.003-7                                                  alpm                            
 ttf-liberation                                                                       2.1.5-2                                                  alpm                            
-tuf-js                                                                               4.1.0                                                    npm                             
-tuf-js                                                                               6.0.0                                                    npm                             
+tuf-js                                                                               6.0.0                                                    npm           (+1 duplicate)    
 tunnel-forwarding                                                                    10.0.0                                                   npm                             
 type-is                                                                              2.1.0                                                    npm           (+2 duplicates)   
 typebox                                                                              1.3.34                                                   npm                             
@@ -2702,8 +2634,7 @@ undici                                                                          
 undici                                                                               6.29.0                                                   npm           (+2 duplicates)   
 undici                                                                               7.29.0                                                   npm                             
 undici                                                                               7.30.0                                                   npm                             
-undici                                                                               8.10.2                                                   npm                             
-undici                                                                               8.11.2                                                   npm                             
+undici                                                                               8.11.2                                                   npm           (+1 duplicate)    
 undici-types                                                                         6.21.0                                                   npm                             
 undici-types                                                                         8.9.0                                                    npm           (+1 duplicate)    
 unicase                                                                              2.9.0                                                    rust-crate    (+1 duplicate)    
@@ -2723,7 +2654,7 @@ util-deprecate                                                                  
 util-linux                                                                           2.42.4-1                                                 alpm                            
 util-linux-libs                                                                      2.42.4-1                                                 alpm                            
 uuid                                                                                 1.24.0                                                   rust-crate    (+1 duplicate)    
-uuid                                                                                 14.0.2                                                   npm                             
+uuid                                                                                 14.0.3                                                   npm                             
 uv                                                                                   0.13.0                                                   python                          
 uv                                                                                   0.13.0                                                   rust-crate    (+1 duplicate)    
 uv-audit                                                                             0.0.92                                                   rust-crate    (+1 duplicate)    
@@ -2814,8 +2745,7 @@ uv-workspace-commands                                                           
 uvicorn                                                                              0.54.0                                                   python                          
 uvloop                                                                               0.23.0                                                   python                          
 v4l-utils                                                                            1.32.0-2                                                 alpm                            
-validate-npm-package-name                                                            7.0.2                                                    npm                             
-validate-npm-package-name                                                            8.0.0                                                    npm                             
+validate-npm-package-name                                                            8.0.0                                                    npm           (+1 duplicate)    
 vapoursynth                                                                          80                                                       python                          
 vapoursynth                                                                          80-1                                                     alpm                            
 vary                                                                                 1.1.2                                                    npm           (+2 duplicates)   
@@ -2824,7 +2754,7 @@ verror                                                                          
 vid.stab                                                                             1.1.2-1                                                  alpm                            
 vim                                                                                  9.2.1164-2                                               alpm                            
 vim-runtime                                                                          9.2.1164-2                                               alpm                            
-virtualenv                                                                           21.14.5                                                  python                          
+virtualenv                                                                           21.14.6                                                  python                          
 vmaf                                                                                 3.2.1-1                                                  alpm                            
 voca                                                                                 1.4.1                                                    npm                             
 volume_key                                                                           0.3.12-12                                                alpm                            
@@ -2870,8 +2800,7 @@ wheel                                                                           
 wheel                                                                                0.48.0                                                   python                          
 which                                                                                2.0.2                                                    npm           (+3 duplicates)   
 which                                                                                2.25-1                                                   alpm                            
-which                                                                                6.0.1                                                    npm                             
-which                                                                                7.0.0                                                    npm           (+1 duplicate)    
+which                                                                                7.0.0                                                    npm           (+2 duplicates)   
 which                                                                                8.0.6                                                    rust-crate    (+1 duplicate)    
 which-command                                                                        0.1.0                                                    npm                             
 which-module                                                                         2.0.1                                                    npm                             
@@ -2886,8 +2815,7 @@ wlroots0.20                                                                     
 wrap-ansi                                                                            6.2.0                                                    npm                             
 wrap-ansi                                                                            7.0.0                                                    npm           (+1 duplicate)    
 wrappy                                                                               1.0.2                                                    npm           (+2 duplicates)   
-write-file-atomic                                                                    7.0.1                                                    npm                             
-write-file-atomic                                                                    8.0.0                                                    npm                             
+write-file-atomic                                                                    8.0.0                                                    npm           (+1 duplicate)    
 writeable                                                                            0.6.2                                                    rust-crate    (+1 duplicate)    
 ws                                                                                   8.21.0                                                   npm                             
 ws                                                                                   8.21.3                                                   npm                             
@@ -2987,7 +2915,8 @@ zmij                                                                            
 zod                                                                                  3.25.76                                                  npm           (+3 duplicates)   
 zod                                                                                  4.1.8                                                    npm                             
 zod                                                                                  4.4.3                                                    npm                             
-zod                                                                                  4.6.5                                                    npm           (+1 duplicate)    
+zod                                                                                  4.6.5                                                    npm                             
+zod                                                                                  4.6.6                                                    npm                             
 zod-to-json-schema                                                                   3.25.1                                                   npm                             
 zod-to-json-schema                                                                   3.25.2                                                   npm           (+2 duplicates)   
 zstd                                                                                 0.13.3                                                   rust-crate    (+1 duplicate)    
