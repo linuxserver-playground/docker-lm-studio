@@ -33,7 +33,6 @@ RUN \
     kdialog \
     konsole \
     kvantum \
-    kwin-x11 \
     mariadb \
     nano \
     nodejs \
@@ -43,7 +42,6 @@ RUN \
     papirus-icon-theme \
     pipewire \
     plasma-desktop \
-    plasma-x11-session \
     python-virtualenv \
     rsync \
     tmux \
