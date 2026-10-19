@@ -789,7 +789,7 @@ fast-sha256                                                                     
 fast-string-truncated-width                                                          3.0.3                                                    npm                             
 fast-string-width                                                                    3.0.2                                                    npm                             
 fast-uri                                                                             3.1.5                                                    npm                             
-fast-uri                                                                             3.1.8                                                    npm           (+1 duplicate)    
+fast-uri                                                                             3.1.9                                                    npm           (+1 duplicate)    
 fast-wrap-ansi                                                                       0.2.2                                                    npm                             
 fastapi                                                                              0.149.0                                                  python                          
 fastest-levenshtein                                                                  1.0.16                                                   npm           (+1 duplicate)    
