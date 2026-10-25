@@ -1,26 +1,26 @@
 NAME                                                                                 VERSION                                                  TYPE                           
 @agentclientprotocol/sdk                                                             1.7.0                                                    npm                             
-@ai-sdk/amazon-bedrock                                                               5.0.123                                                  npm                             
-@ai-sdk/anthropic                                                                    4.0.87                                                   npm                             
-@ai-sdk/gateway                                                                      3.0.220                                                  npm                             
-@ai-sdk/gateway                                                                      4.0.124                                                  npm                             
+@ai-sdk/amazon-bedrock                                                               5.0.124                                                  npm                             
+@ai-sdk/anthropic                                                                    4.0.88                                                   npm                             
+@ai-sdk/gateway                                                                      3.0.221                                                  npm                             
+@ai-sdk/gateway                                                                      4.0.126                                                  npm                             
 @ai-sdk/gateway                                                                      4.0.2                                                    npm                             
-@ai-sdk/google                                                                       4.0.104                                                  npm                             
-@ai-sdk/google-vertex                                                                5.0.121                                                  npm                             
-@ai-sdk/mistral                                                                      4.0.71                                                   npm                             
-@ai-sdk/openai                                                                       4.0.101                                                  npm                             
-@ai-sdk/openai-compatible                                                            3.0.77                                                   npm                             
-@ai-sdk/otel                                                                         1.0.151                                                  npm                             
+@ai-sdk/google                                                                       4.0.105                                                  npm                             
+@ai-sdk/google-vertex                                                                5.0.122                                                  npm                             
+@ai-sdk/mistral                                                                      4.0.72                                                   npm                             
+@ai-sdk/openai                                                                       4.0.102                                                  npm                             
+@ai-sdk/openai-compatible                                                            3.0.78                                                   npm                             
+@ai-sdk/otel                                                                         1.0.153                                                  npm                             
 @ai-sdk/otel                                                                         1.0.2                                                    npm                             
 @ai-sdk/provider                                                                     2.0.5                                                    npm                             
 @ai-sdk/provider                                                                     3.0.19                                                   npm           (+2 duplicates)   
 @ai-sdk/provider                                                                     3.0.8                                                    npm                             
 @ai-sdk/provider                                                                     4.0.0                                                    npm                             
-@ai-sdk/provider                                                                     4.0.33                                                   npm                             
+@ai-sdk/provider                                                                     4.0.34                                                   npm                             
 @ai-sdk/provider-utils                                                               3.0.42                                                   npm                             
 @ai-sdk/provider-utils                                                               4.0.62                                                   npm           (+2 duplicates)   
 @ai-sdk/provider-utils                                                               5.0.0                                                    npm                             
-@ai-sdk/provider-utils                                                               5.0.67                                                   npm                             
+@ai-sdk/provider-utils                                                               5.0.68                                                   npm                             
 @anthropic-ai/sdk                                                                    0.131.0                                                  npm                             
 @anthropic-ai/sdk                                                                    0.82.0                                                   npm                             
 @aws-sdk/core                                                                        3.978.5                                                  npm                             
@@ -148,74 +148,74 @@ NAME                                                                            
 @npmcli/query                                                                        5.0.0                                                    npm           (+1 duplicate)    
 @npmcli/redact                                                                       5.0.0                                                    npm           (+1 duplicate)    
 @npmcli/run-script                                                                   11.0.0                                                   npm           (+1 duplicate)    
-@openclaw/a2a                                                                        2026.10.6                                                npm                             
-@openclaw/admin-http-rpc                                                             2026.10.6                                                npm                             
-@openclaw/agentsapi                                                                  2026.10.6                                                npm                             
-@openclaw/ai                                                                         2026.10.6                                                npm                             
-@openclaw/alibaba-provider                                                           2026.10.6                                                npm                             
-@openclaw/anthropic-provider                                                         2026.10.6                                                npm                             
-@openclaw/apple-fm-provider                                                          2026.10.6                                                npm                             
-@openclaw/azure-speech                                                               2026.10.6                                                npm                             
-@openclaw/beam                                                                       2026.10.6                                                npm                             
-@openclaw/bonjour                                                                    2026.10.6                                                npm                             
-@openclaw/browser-plugin                                                             2026.10.6                                                npm                             
-@openclaw/canvas-plugin                                                              2026.10.6                                                npm                             
-@openclaw/clawrouter                                                                 2026.10.6                                                npm                             
-@openclaw/cloudflare                                                                 2026.10.6                                                npm                             
-@openclaw/code-mode-quickjs                                                          2026.10.6                                                npm                             
-@openclaw/copilot-proxy                                                              2026.10.6                                                npm                             
-@openclaw/crabbox-provider                                                           2026.10.6                                                npm                             
-@openclaw/cua-computer                                                               2026.10.6                                                npm                             
-@openclaw/deepgram-provider                                                          2026.10.6                                                npm                             
-@openclaw/document-extract-plugin                                                    2026.10.6                                                npm                             
-@openclaw/elevenlabs-speech                                                          2026.10.6                                                npm                             
-@openclaw/fal-provider                                                               2026.10.6                                                npm                             
-@openclaw/file-transfer                                                              2026.10.6                                                npm                             
-@openclaw/fs-safe                                                                    0.25.0                                                   npm                             
-@openclaw/fs-safe-linux-x64-gnu                                                      0.25.0                                                   npm                             
-@openclaw/geolocation-plugin                                                         2026.10.6                                                npm                             
-@openclaw/github                                                                     2026.10.6                                                npm                             
-@openclaw/github-copilot-provider                                                    2026.10.6                                                npm                             
-@openclaw/google-plugin                                                              2026.10.6                                                npm                             
-@openclaw/huggingface-provider                                                       2026.10.6                                                npm                             
-@openclaw/image-generation-core                                                      2026.10.6                                                npm                             
-@openclaw/imap                                                                       2026.10.6                                                npm                             
-@openclaw/kie-provider                                                               2026.10.6                                                npm                             
-@openclaw/linux-node                                                                 2026.10.6                                                npm                             
-@openclaw/litellm-provider                                                           2026.10.6                                                npm                             
-@openclaw/llm-task                                                                   2026.10.6                                                npm                             
-@openclaw/lmstudio-provider                                                          2026.10.6                                                npm                             
-@openclaw/logbook                                                                    2026.10.6                                                npm                             
-@openclaw/memory-core                                                                2026.10.6                                                npm                             
-@openclaw/memory-wiki                                                                2026.10.6                                                npm                             
-@openclaw/microsoft-foundry                                                          2026.10.6                                                npm                             
-@openclaw/microsoft-speech                                                           2026.10.6                                                npm                             
-@openclaw/migrate-claude                                                             2026.10.6                                                npm                             
-@openclaw/migrate-hermes                                                             2026.10.6                                                npm                             
-@openclaw/minimax-provider                                                           2026.10.6                                                npm                             
-@openclaw/nvidia-provider                                                            2026.10.6                                                npm                             
-@openclaw/oc-path                                                                    2026.10.6                                                npm                             
-@openclaw/ollama-provider                                                            2026.10.6                                                npm                             
-@openclaw/onepassword                                                                2026.10.6                                                npm                             
-@openclaw/openai-provider                                                            2026.10.6                                                npm                             
-@openclaw/opencode-go-provider                                                       2026.10.6                                                npm                             
-@openclaw/openrouter-provider                                                        2026.10.6                                                npm                             
-@openclaw/policy                                                                     2026.10.6                                                npm                             
+@openclaw/a2a                                                                        2026.10.7                                                npm                             
+@openclaw/admin-http-rpc                                                             2026.10.7                                                npm                             
+@openclaw/agentsapi                                                                  2026.10.7                                                npm                             
+@openclaw/ai                                                                         2026.10.7                                                npm                             
+@openclaw/alibaba-provider                                                           2026.10.7                                                npm                             
+@openclaw/anthropic-provider                                                         2026.10.7                                                npm                             
+@openclaw/apple-fm-provider                                                          2026.10.7                                                npm                             
+@openclaw/azure-speech                                                               2026.10.7                                                npm                             
+@openclaw/beam                                                                       2026.10.7                                                npm                             
+@openclaw/bonjour                                                                    2026.10.7                                                npm                             
+@openclaw/browser-plugin                                                             2026.10.7                                                npm                             
+@openclaw/canvas-plugin                                                              2026.10.7                                                npm                             
+@openclaw/clawrouter                                                                 2026.10.7                                                npm                             
+@openclaw/cloudflare                                                                 2026.10.7                                                npm                             
+@openclaw/code-mode-quickjs                                                          2026.10.7                                                npm                             
+@openclaw/copilot-proxy                                                              2026.10.7                                                npm                             
+@openclaw/crabbox-provider                                                           2026.10.7                                                npm                             
+@openclaw/cua-computer                                                               2026.10.7                                                npm                             
+@openclaw/deepgram-provider                                                          2026.10.7                                                npm                             
+@openclaw/document-extract-plugin                                                    2026.10.7                                                npm                             
+@openclaw/elevenlabs-speech                                                          2026.10.7                                                npm                             
+@openclaw/fal-provider                                                               2026.10.7                                                npm                             
+@openclaw/file-transfer                                                              2026.10.7                                                npm                             
+@openclaw/fs-safe                                                                    0.26.0                                                   npm                             
+@openclaw/fs-safe-linux-x64-gnu                                                      0.26.0                                                   npm                             
+@openclaw/geolocation-plugin                                                         2026.10.7                                                npm                             
+@openclaw/github                                                                     2026.10.7                                                npm                             
+@openclaw/github-copilot-provider                                                    2026.10.7                                                npm                             
+@openclaw/google-plugin                                                              2026.10.7                                                npm                             
+@openclaw/huggingface-provider                                                       2026.10.7                                                npm                             
+@openclaw/image-generation-core                                                      2026.10.7                                                npm                             
+@openclaw/imap                                                                       2026.10.7                                                npm                             
+@openclaw/kie-provider                                                               2026.10.7                                                npm                             
+@openclaw/linux-node                                                                 2026.10.7                                                npm                             
+@openclaw/litellm-provider                                                           2026.10.7                                                npm                             
+@openclaw/llm-task                                                                   2026.10.7                                                npm                             
+@openclaw/lmstudio-provider                                                          2026.10.7                                                npm                             
+@openclaw/logbook                                                                    2026.10.7                                                npm                             
+@openclaw/memory-core                                                                2026.10.7                                                npm                             
+@openclaw/memory-wiki                                                                2026.10.7                                                npm                             
+@openclaw/microsoft-foundry                                                          2026.10.7                                                npm                             
+@openclaw/microsoft-speech                                                           2026.10.7                                                npm                             
+@openclaw/migrate-claude                                                             2026.10.7                                                npm                             
+@openclaw/migrate-hermes                                                             2026.10.7                                                npm                             
+@openclaw/minimax-provider                                                           2026.10.7                                                npm                             
+@openclaw/nvidia-provider                                                            2026.10.7                                                npm                             
+@openclaw/oc-path                                                                    2026.10.7                                                npm                             
+@openclaw/ollama-provider                                                            2026.10.7                                                npm                             
+@openclaw/onepassword                                                                2026.10.7                                                npm                             
+@openclaw/openai-provider                                                            2026.10.7                                                npm                             
+@openclaw/opencode-go-provider                                                       2026.10.7                                                npm                             
+@openclaw/openrouter-provider                                                        2026.10.7                                                npm                             
+@openclaw/policy                                                                     2026.10.7                                                npm                             
 @openclaw/proxyline                                                                  0.4.0                                                    npm                             
-@openclaw/reef                                                                       2026.10.6                                                npm                             
-@openclaw/runway-provider                                                            2026.10.6                                                npm                             
-@openclaw/senseaudio-provider                                                        2026.10.6                                                npm                             
-@openclaw/session-share                                                              2026.10.6                                                npm                             
-@openclaw/sglang-provider                                                            2026.10.6                                                npm                             
-@openclaw/telegram                                                                   2026.10.6                                                npm                             
-@openclaw/together-provider                                                          2026.10.6                                                npm                             
-@openclaw/tts-local-cli                                                              2026.10.6                                                npm                             
-@openclaw/vault                                                                      2026.10.6                                                npm                             
-@openclaw/vllm-provider                                                              2026.10.6                                                npm                             
-@openclaw/web-readability-plugin                                                     2026.10.6                                                npm                             
-@openclaw/workboard                                                                  2026.10.6                                                npm                             
-@openclaw/x                                                                          2026.10.6                                                npm                             
-@openclaw/xai-plugin                                                                 2026.10.6                                                npm                             
+@openclaw/reef                                                                       2026.10.7                                                npm                             
+@openclaw/runway-provider                                                            2026.10.7                                                npm                             
+@openclaw/senseaudio-provider                                                        2026.10.7                                                npm                             
+@openclaw/session-share                                                              2026.10.7                                                npm                             
+@openclaw/sglang-provider                                                            2026.10.7                                                npm                             
+@openclaw/telegram                                                                   2026.10.7                                                npm                             
+@openclaw/together-provider                                                          2026.10.7                                                npm                             
+@openclaw/tts-local-cli                                                              2026.10.7                                                npm                             
+@openclaw/vault                                                                      2026.10.7                                                npm                             
+@openclaw/vllm-provider                                                              2026.10.7                                                npm                             
+@openclaw/web-readability-plugin                                                     2026.10.7                                                npm                             
+@openclaw/workboard                                                                  2026.10.7                                                npm                             
+@openclaw/x                                                                          2026.10.7                                                npm                             
+@openclaw/xai-plugin                                                                 2026.10.7                                                npm                             
 @opencode-ai/plugin                                                                  1.19.4                                                   npm                             
 @opencode-ai/sdk                                                                     1.19.4                                                   npm           (+1 duplicate)    
 @openrouter/ai-sdk-provider                                                          3.1.0                                                    npm                             
@@ -372,8 +372,8 @@ agent-base                                                                      
 agent-base                                                                           7.1.4                                                    npm           (+1 duplicate)    
 agent-base                                                                           9.0.0                                                    npm           (+3 duplicates)   
 aho-corasick                                                                         1.1.4                                                    rust-crate    (+1 duplicate)    
-ai                                                                                   6.0.314                                                  npm                             
-ai                                                                                   7.0.151                                                  npm           (+1 duplicate)    
+ai                                                                                   6.0.315                                                  npm                             
+ai                                                                                   7.0.153                                                  npm           (+1 duplicate)    
 ai                                                                                   7.0.2                                                    npm                             
 ai-prediction-api                                                                    1.0.0                                                    npm                             
 ai-sdk-provider-opencode-sdk                                                         3.0.8                                                    npm                             
@@ -1362,7 +1362,7 @@ hmac                                                                            
 hmac                                                                                 0.13.0                                                   rust-crate    (+1 duplicate)    
 homedir                                                                              0.3.6                                                    rust-crate    (+1 duplicate)    
 hono                                                                                 4.12.34                                                  npm                             
-hono                                                                                 4.13.13                                                  npm           (+1 duplicate)    
+hono                                                                                 4.13.14                                                  npm           (+1 duplicate)    
 hosted-git-info                                                                      10.1.1                                                   npm           (+2 duplicates)   
 html                                                                                 10.0.0                                                   npm                             
 html-escaper                                                                         3.0.3                                                    npm                             
@@ -1442,7 +1442,7 @@ io-lifetimes                                                                    
 io-lifetimes                                                                         3.0.1                                                    rust-crate    (+1 duplicate)    
 ip-address                                                                           10.5.0                                                   npm           (+1 duplicate)    
 ip-address                                                                           10.7.2                                                   npm                             
-ip-address                                                                           10.7.4                                                   npm           (+1 duplicate)    
+ip-address                                                                           10.7.5                                                   npm           (+1 duplicate)    
 ipaddr.js                                                                            1.9.1                                                    npm           (+2 duplicates)   
 ipnet                                                                                2.12.0                                                   rust-crate    (+1 duplicate)    
 iproute2                                                                             7.3.0-1                                                  alpm                            
@@ -2060,14 +2060,14 @@ openai-harmony                                                                  
 openbox                                                                              3.6.1-14                                                 alpm                            
 openbsd-netcat                                                                       1.238_1-1                                                alpm                            
 opencl-nvidia                                                                        615.78.08-1                                              alpm                            
-openclaw                                                                             2026.10.6                                                npm                             
+openclaw                                                                             2026.10.7                                                npm                             
 opencode-ai                                                                          1.19.4                                                   npm                             
 opencode-linux-x64                                                                   1.19.4                                                   npm                             
 opencode-linux-x64-baseline                                                          1.19.4                                                   npm                             
 opencode-lmstudio                                                                    0.3.1                                                    npm                             
 opencore-amr                                                                         0.1.6-2                                                  alpm                            
 openexr                                                                              3.5.2-1                                                  alpm                            
-openh264                                                                             2.6.0-2                                                  alpm                            
+openh264                                                                             2.7.0-1                                                  alpm                            
 openjpeg2                                                                            2.5.4-1                                                  alpm                            
 openjph                                                                              0.32.0-1                                                 alpm                            
 openssh                                                                              10.6p1-2                                                 alpm                            
@@ -2745,8 +2745,8 @@ uvicorn                                                                         
 uvloop                                                                               0.23.0                                                   python                          
 v4l-utils                                                                            1.32.0-2                                                 alpm                            
 validate-npm-package-name                                                            8.0.0                                                    npm           (+1 duplicate)    
-vapoursynth                                                                          80                                                       python                          
-vapoursynth                                                                          80-1                                                     alpm                            
+vapoursynth                                                                          81                                                       python                          
+vapoursynth                                                                          81-1                                                     alpm                            
 vary                                                                                 1.1.2                                                    npm           (+2 duplicates)   
 vb                                                                                   10.0.0                                                   npm                             
 verror                                                                               1.10.1                                                   npm                             
