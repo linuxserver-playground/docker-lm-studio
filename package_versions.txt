@@ -1,15 +1,15 @@
 NAME                                                                                 VERSION                                                  TYPE                              
 @agentclientprotocol/sdk                                                             1.7.0                                                    npm                               
-@ai-sdk/amazon-bedrock                                                               5.0.133                                                  npm                               
-@ai-sdk/anthropic                                                                    4.0.97                                                   npm                               
-@ai-sdk/gateway                                                                      4.0.136                                                  npm                               
+@ai-sdk/amazon-bedrock                                                               5.0.134                                                  npm                               
+@ai-sdk/anthropic                                                                    4.0.98                                                   npm                               
+@ai-sdk/gateway                                                                      4.0.137                                                  npm                               
 @ai-sdk/gateway                                                                      4.0.2                                                    npm                               
-@ai-sdk/google                                                                       4.0.112                                                  npm                               
-@ai-sdk/google-vertex                                                                5.0.132                                                  npm                               
+@ai-sdk/google                                                                       4.0.113                                                  npm                               
+@ai-sdk/google-vertex                                                                5.0.133                                                  npm                               
 @ai-sdk/mistral                                                                      4.0.80                                                   npm                               
-@ai-sdk/openai                                                                       4.0.109                                                  npm                               
-@ai-sdk/openai-compatible                                                            3.0.85                                                   npm                               
-@ai-sdk/otel                                                                         1.0.163                                                  npm                               
+@ai-sdk/openai                                                                       4.0.110                                                  npm                               
+@ai-sdk/openai-compatible                                                            3.0.86                                                   npm                               
+@ai-sdk/otel                                                                         1.0.164                                                  npm                               
 @ai-sdk/otel                                                                         1.0.2                                                    npm                               
 @ai-sdk/provider                                                                     2.0.5                                                    npm                               
 @ai-sdk/provider                                                                     3.0.19                                                   npm                               
@@ -22,20 +22,20 @@ NAME                                                                            
 @ai-sdk/provider-utils                                                               5.0.75                                                   npm                               
 @anthropic-ai/sdk                                                                    0.131.0                                                  npm                               
 @anthropic-ai/sdk                                                                    0.82.0                                                   npm                               
-@aws-sdk/core                                                                        3.980.0                                                  npm                               
-@aws-sdk/credential-provider-cognito-identity                                        3.972.80                                                 npm                               
-@aws-sdk/credential-provider-env                                                     3.972.81                                                 npm                               
-@aws-sdk/credential-provider-http                                                    3.972.83                                                 npm                               
-@aws-sdk/credential-provider-ini                                                     3.973.26                                                 npm                               
-@aws-sdk/credential-provider-login                                                   3.972.88                                                 npm                               
-@aws-sdk/credential-provider-node                                                    3.972.93                                                 npm                               
-@aws-sdk/credential-provider-process                                                 3.972.81                                                 npm                               
-@aws-sdk/credential-provider-sso                                                     3.973.25                                                 npm                               
-@aws-sdk/credential-provider-web-identity                                            3.972.87                                                 npm                               
-@aws-sdk/credential-providers                                                        3.1163.0                                                 npm                               
-@aws-sdk/nested-clients                                                              3.998.0                                                  npm                               
+@aws-sdk/core                                                                        3.980.1                                                  npm                               
+@aws-sdk/credential-provider-cognito-identity                                        3.972.81                                                 npm                               
+@aws-sdk/credential-provider-env                                                     3.972.82                                                 npm                               
+@aws-sdk/credential-provider-http                                                    3.972.84                                                 npm                               
+@aws-sdk/credential-provider-ini                                                     3.973.27                                                 npm                               
+@aws-sdk/credential-provider-login                                                   3.972.89                                                 npm                               
+@aws-sdk/credential-provider-node                                                    3.972.94                                                 npm                               
+@aws-sdk/credential-provider-process                                                 3.972.82                                                 npm                               
+@aws-sdk/credential-provider-sso                                                     3.973.26                                                 npm                               
+@aws-sdk/credential-provider-web-identity                                            3.972.88                                                 npm                               
+@aws-sdk/credential-providers                                                        3.1164.0                                                 npm                               
+@aws-sdk/nested-clients                                                              3.998.1                                                  npm                               
 @aws-sdk/signature-v4-multi-region                                                   3.996.51                                                 npm                               
-@aws-sdk/token-providers                                                             3.1162.0                                                 npm                               
+@aws-sdk/token-providers                                                             3.1164.0                                                 npm                               
 @aws-sdk/types                                                                       3.975.0                                                  npm                               
 @aws-sdk/xml-builder                                                                 3.972.42                                                 npm                               
 @aws/lambda-invoke-store                                                             0.3.0                                                    npm                               
@@ -276,7 +276,7 @@ NAME                                                                            
 @opentelemetry/sdk-trace-web                                                         2.8.0                                                    npm                               
 @opentelemetry/semantic-conventions                                                  1.28.0                                                   npm             (+1 duplicate)    
 @opentelemetry/semantic-conventions                                                  1.39.0                                                   npm                               
-@opentelemetry/semantic-conventions                                                  1.44.0                                                   npm             (+1 duplicate)    
+@opentelemetry/semantic-conventions                                                  1.45.0                                                   npm             (+1 duplicate)    
 @pondwader/socks5-server                                                             1.0.10                                                   npm                               
 @protobufjs/aspromise                                                                1.1.2                                                    npm             (+2 duplicates)   
 @protobufjs/base64                                                                   1.1.2                                                    npm             (+2 duplicates)   
@@ -771,7 +771,7 @@ agent-base                                                                      
 agent-base                                                                           7.1.4                                                    npm             (+1 duplicate)    
 agent-base                                                                           9.0.0                                                    npm             (+3 duplicates)   
 aho-corasick                                                                         1.1.4                                                    rust-crate      (+1 duplicate)    
-ai                                                                                   7.0.163                                                  npm                               
+ai                                                                                   7.0.164                                                  npm                               
 ai                                                                                   7.0.2                                                    npm                               
 ai-prediction-api                                                                    1.0.0                                                    npm                               
 ai-sdk-provider-opencode-sdk                                                         3.0.8                                                    npm                               
