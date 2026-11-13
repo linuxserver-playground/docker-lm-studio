@@ -32,7 +32,7 @@ NAME                                                                            
 @aws-sdk/credential-provider-process                                                 3.972.84                                                 npm                               
 @aws-sdk/credential-provider-sso                                                     3.973.28                                                 npm                               
 @aws-sdk/credential-provider-web-identity                                            3.972.90                                                 npm                               
-@aws-sdk/credential-providers                                                        3.1168.0                                                 npm                               
+@aws-sdk/credential-providers                                                        3.1169.0                                                 npm                               
 @aws-sdk/nested-clients                                                              3.998.3                                                  npm                               
 @aws-sdk/signature-v4-multi-region                                                   3.996.52                                                 npm                               
 @aws-sdk/token-providers                                                             3.1166.0                                                 npm                               
