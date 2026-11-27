@@ -28,7 +28,7 @@ NAME                                                                            
 @aws-sdk/credential-provider-process                                                 3.972.86                                                 npm                               
 @aws-sdk/credential-provider-sso                                                     3.973.30                                                 npm                               
 @aws-sdk/credential-provider-web-identity                                            3.972.92                                                 npm                               
-@aws-sdk/credential-providers                                                        3.1178.0                                                 npm                               
+@aws-sdk/credential-providers                                                        3.1179.0                                                 npm                               
 @aws-sdk/nested-clients                                                              3.998.5                                                  npm                               
 @aws-sdk/signature-v4-multi-region                                                   3.996.52                                                 npm                               
 @aws-sdk/token-providers                                                             3.1177.0                                                 npm                               
@@ -51,7 +51,7 @@ NAME                                                                            
 @babel/parser                                                                        8.0.10                                                   npm                               
 @babel/parser                                                                        8.1.3                                                    npm                               
 @babel/runtime                                                                       7.27.1                                                   npm                               
-@babel/runtime                                                                       7.29.15                                                  npm                               
+@babel/runtime                                                                       7.29.16                                                  npm                               
 @babel/template                                                                      8.1.2                                                    npm                               
 @babel/traverse                                                                      8.0.10                                                   npm                               
 @babel/types                                                                         8.1.3                                                    npm                               
